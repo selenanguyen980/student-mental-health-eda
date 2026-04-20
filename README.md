@@ -8,4 +8,5 @@ I examined CGPA distribution, treatment seeking behavior, and anxiety rates acro
 
 ### Tools & Skills
 Tools: Python (pandas), Tableau, Excel
+
 Skills: Data cleaning, exploratory data analysis, descriptive statistics, groupby aggregations, data visualization
